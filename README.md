@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-torryy1819
 - 👀 I’m interested in programming, learning languages and sport✨
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java Script, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
