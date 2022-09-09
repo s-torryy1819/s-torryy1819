@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Victoria Skoptsova
-- 🎓 I am studying computer science in KPI
-- 👀 I’m interested in programming, learning languages and sport✨
-- 🌱 I’m currently learning Java
-- 🌱 I have experience in HTML, CSS
+- 🎓 Student in KPI
+- 🌱 Trainee Java Software Engineer
 
 
 <!---
