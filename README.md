@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victoria Skoptsova
+- 👋 Hi, I’m Viktoriia Skoptsova
 - 🎓 Student in KPI
 - 🌱 Trainee Java Software Engineer
 
