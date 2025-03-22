@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viktoriia Skoptsova
 - 🎓 Student in KPI
-- 🌱 Trainee Software Engineer
+- 🌱 Fullstack Software Engineer
 
 
 <!---
