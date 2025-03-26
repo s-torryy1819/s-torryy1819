@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viktoriia Skoptsova
-- 🎓 Student in KPI
+- 🎓 Student in Kyiv Polytechnical unversity
 - 🌱 Fullstack Software Engineer
 
 
