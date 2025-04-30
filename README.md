@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Viktoriia Skoptsova
+- 👋 Hi, I’m Viktoriia 
 - 🎓 Student in Kyiv Polytechnical unversity
 - 🌱 Fullstack Software Engineer
 
